@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=yourairport_info
+POSTGRES_USER=CJcgMFXdSYknvSHlzGvbikFTVqBFfTKH
+POSTGRES_PASSWORD=57RcftagdCCU7hkJ80e9IUZDloi73ocmVZCBXIj3lwIDUXH5PSeCfiizPzR4EWg3

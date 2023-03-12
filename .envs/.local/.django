@@ -1,0 +1,5 @@
+# General
+# ------------------------------------------------------------------------------
+USE_DOCKER=yes
+IPYTHONDIR=/app/.ipython
+AEROAPI_KEY=J1usNirxkMs8XSTY3EicZQBBEY5JI9Qe
