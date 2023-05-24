@@ -35,7 +35,7 @@ django-coverage-plugin==3.0.0  # https://github.com/nedbat/django_coverage_plugi
 pytest-django==4.5.2  # https://github.com/pytest-dev/pytest-django
 
 appnope==0.1.3
-asgiref==3.5.2
+asgiref==3.7.1
 asttokens==2.1.0
 backcall==0.2.0
 certifi==2022.9.24
